@@ -1,3 +1,21 @@
 body {
 	font-family: sans-serif;
 }
+
+.main-title {
+	font-size: 3.5em;
+	font-family: 'Lobster';
+}
+
+.city-name {
+	font-family: 'Lobster';
+}
+
+#tooltip {
+	background-color: rgba(255, 255, 255, 0.8);
+	padding: 10px;
+}
+
+.tooltip-value {
+	font-weight: bold;
+}
